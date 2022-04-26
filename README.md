@@ -1,2 +1,2 @@
 # Cocktail-Bar
-fronא React framework 
+front React framework 
